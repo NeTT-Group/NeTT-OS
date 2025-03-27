@@ -26,5 +26,5 @@ struct uts_namespace init_uts_ns = {
 
 /* FIXED STRINGS! Don't touch! */
 const char linux_banner[] =
-	"NeTT OS 7, using Linux version: " UTS_RELEASE " (" LINUX_COMPILE_BY "@"
+	"NeTT OS Version 7.0.0, Build 7000, Built on Linux version: " UTS_RELEASE " (" LINUX_COMPILE_BY "@"
 	LINUX_COMPILE_HOST ") (" LINUX_COMPILER ") " UTS_VERSION "\n";
