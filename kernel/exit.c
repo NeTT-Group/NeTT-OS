@@ -907,6 +907,8 @@ void __noreturn do_exit(long code)
 	ptrace_event(PTRACE_EVENT_EXIT, code);
 	user_events_exit(tsk);
 
+	pr_info("Process name: %s | PID: %d | Exiting with code: %ld\n", task>comm, tsk->pid, code);
+
 	io_uring_files_cancel();
 	exit_signals(tsk);  /* sets PF_EXITING */
 
