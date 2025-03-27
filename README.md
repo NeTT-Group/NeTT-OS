@@ -4,7 +4,7 @@ The new repository for NeTT OS. After 5 years of NeTT OS (then called TouchOS) b
 
 # Release date
 
-NeTT OS 6 has been cancelled, with NeTT OS being released some time in 2029.
+NeTT OS 6 has been cancelled, with NeTT OS 7 being released some time in 2029.
 
 
 ![NeT OS 7 Pages](https://github.com/user-attachments/assets/453a7c94-1b39-44fb-9f00-87a0b0299e33)
